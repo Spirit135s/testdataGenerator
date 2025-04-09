@@ -1,0 +1,9 @@
+.vscode
+*.aux
+*.bbl
+*.blg
+*.gz
+*.log
+*.pdf
+*.docx
+*.toc
